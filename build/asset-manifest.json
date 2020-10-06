@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/danila-arzhanenkov/build/static/css/main.dbfd6a09.chunk.css",
+    "main.js": "/danila-arzhanenkov/build/static/js/main.76cce014.chunk.js",
+    "main.js.map": "/danila-arzhanenkov/build/static/js/main.76cce014.chunk.js.map",
+    "runtime-main.js": "/danila-arzhanenkov/build/static/js/runtime-main.82464a52.js",
+    "runtime-main.js.map": "/danila-arzhanenkov/build/static/js/runtime-main.82464a52.js.map",
+    "static/js/2.b40e6fbb.chunk.js": "/danila-arzhanenkov/build/static/js/2.b40e6fbb.chunk.js",
+    "static/js/2.b40e6fbb.chunk.js.map": "/danila-arzhanenkov/build/static/js/2.b40e6fbb.chunk.js.map",
+    "index.html": "/danila-arzhanenkov/build/index.html",
+    "precache-manifest.43a87de952149865b0dae39cb16b061b.js": "/danila-arzhanenkov/build/precache-manifest.43a87de952149865b0dae39cb16b061b.js",
+    "service-worker.js": "/danila-arzhanenkov/build/service-worker.js",
+    "static/css/main.dbfd6a09.chunk.css.map": "/danila-arzhanenkov/build/static/css/main.dbfd6a09.chunk.css.map",
+    "static/js/2.b40e6fbb.chunk.js.LICENSE.txt": "/danila-arzhanenkov/build/static/js/2.b40e6fbb.chunk.js.LICENSE.txt",
+    "static/media/Spinner.gif": "/danila-arzhanenkov/build/static/media/Spinner.0a80076b.gif",
+    "static/media/cloudy.svg": "/danila-arzhanenkov/build/static/media/cloudy.aa5bfc79.svg",
+    "static/media/day_clear.svg": "/danila-arzhanenkov/build/static/media/day_clear.33118352.svg",
+    "static/media/day_rain.svg": "/danila-arzhanenkov/build/static/media/day_rain.f3e63c91.svg",
+    "static/media/snow.svg": "/danila-arzhanenkov/build/static/media/snow.5f54ba40.svg",
+    "static/media/thermometer.svg": "/danila-arzhanenkov/build/static/media/thermometer.c9ff2661.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82464a52.js",
+    "static/js/2.b40e6fbb.chunk.js",
+    "static/css/main.dbfd6a09.chunk.css",
+    "static/js/main.76cce014.chunk.js"
+  ]
+}
